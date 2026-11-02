@@ -1,2 +1,8 @@
-docs/source
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+docs/source/
+docs/kaynaklar/
+*.tsbuildinfo
 *.DS_Store
